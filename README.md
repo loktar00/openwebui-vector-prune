@@ -221,6 +221,10 @@ This shouldn't happen since only orphaned data is removed. If it does:
 1. Restore from your backup (`vector_db.bak`)
 2. Open an issue with the error details
 
+Example of the script in progress:
+<img width="808" height="840" alt="image" src="https://github.com/user-attachments/assets/1b941ee6-c266-4801-b683-90e392892985" />
+
+
 ## License
 
 MIT License - Use at your own risk. Always backup your data before running cleanup operations.
